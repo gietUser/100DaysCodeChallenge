@@ -33,4 +33,14 @@ input_string = input("Enter a sentence separetd by space: ")
 list = input_string.split()
 
 **Link to work:**
-[Day1](https://github.com/ashif8984/100DaysCode/tree/master/Day2)
+[Day2](https://github.com/ashif8984/100DaysCode/tree/master/Day2)
+
+### Day 3: 03 August , 2019
+
+**Today's Progress**: Written List Operation command
+
+**Thoughts:**
+1. Need to learn more about List Operation
+2. How to debug a program instead of running as whole
+**Link to work:**
+[Day3](https://github.com/ashif8984/100DaysCode/tree/master/Day3)
