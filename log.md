@@ -44,3 +44,17 @@ list = input_string.split()
 2. How to debug a program instead of running as whole
 **Link to work:**
 [Day3](https://github.com/ashif8984/100DaysCode/tree/master/Day3)
+
+
+
+### Day 4: 04 August , 2019
+
+**Today's Progress**: Practised on Dictionary and Sorting Algorithm
+1. Binary Search
+2. Linear Search
+3. Dictionary Program
+**Thoughts:**
+**Link to work:**
+[Day4](https://github.com/ashif8984/100DaysCode/tree/master/Day4)
+
+
