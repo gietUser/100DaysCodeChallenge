@@ -58,3 +58,20 @@ list = input_string.split()
 [Day4](https://github.com/ashif8984/100DaysCode/tree/master/Day4)
 
 
+
+
+### Day 5: 06 August , 2019
+
+**Today's Progress**: Practised Pattern, Sorting Algorithm and Exception Handling
+1. Insertion Sort
+
+**Thoughts:**
+Need to work more on Python Programming
+
+
+**Link to work:**
+[Day5](https://github.com/ashif8984/100DaysCode/tree/master/Day5)
+
+
+
+
