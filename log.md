@@ -73,5 +73,19 @@ Need to work more on Python Programming
 [Day5](https://github.com/ashif8984/100DaysCode/tree/master/Day5)
 
 
+### Day 6: 11 August , 2019
+
+**Today's Progress**: Practised Pattern, Sorting Algorithm and Exception Handling
+1. Palindrome String
+2. Reverse String
+3. Voewls Count
+
+**Thoughts:**
+Need to work more on Python Programming
+
+
+**Link to work:**
+[Day6](https://github.com/ashif8984/100DaysCode/tree/master/Day6)
+
 
 
