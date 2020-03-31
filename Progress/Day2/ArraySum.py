@@ -14,4 +14,5 @@ print("Sum is {}".format(sum))
 list1.sort()
 
 print("Largest element in the list : {}".format(list1[-1]))
+print("Smallest element in the list : {}".format(list1[0]))
 print("Second Largest element in the list : {}".format(list1[-2]))

@@ -12,6 +12,7 @@ second = 1
 next =0 
 
 
+
 for i in range(0,term):
 	if i<=1:
 		next = i

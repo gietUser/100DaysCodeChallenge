@@ -1,9 +1,5 @@
 # Basic List operation
 
-
-
-
-
 def decorator():
 	print("----"* 10)
 

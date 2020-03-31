@@ -12,3 +12,4 @@ num = int(input())
 res = factorial(num)
 
 print("Factorial of {0} = {1}".format(num, res))
+
