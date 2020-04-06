@@ -1,6 +1,6 @@
 # Guess Number Game
 
-import random  
+import random  # import random module
 
 # Generate number
 num = random.randint(0, 9)
