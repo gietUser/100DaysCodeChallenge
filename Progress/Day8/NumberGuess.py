@@ -1,5 +1,7 @@
 # Guess Number Game
 
+# Random number can be used to identify the Dice Outcome game
+
 import random  # import random module
 
 # Generate number
